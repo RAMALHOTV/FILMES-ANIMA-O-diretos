@@ -379,3 +379,95 @@ http://vipeiptv.com:25461/movie/taylor/taylor/964039.mp4
 http://vipeiptv.com:25461/movie/taylor/taylor/964040.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zootopia: Essa Cidade é o Bicho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyiEmCk6mOenJiL7s3LspVKkoZM.jpg" group-title="FILMES | ANIMAÇÃO",Zootopia: Essa Cidade é o Bicho (2016)
 http://vipeiptv.com:25461/movie/taylor/taylor/964041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela Adormecida" tvg-logo="http://assistirpainel.ddns.net:8880/images/j4YBuAe8D1jDSiitpq69og9x3Yl_small.jpg" group-title="FILMES | INFANTIL",A Bela Adormecida
+http://vipeiptv.com:25461/movie/taylor/taylor/964616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga das Galinhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5coQXIl5NnJznMXcmrqgyxPO5Qn.jpg" group-title="FILMES | INFANTIL",A Fuga das Galinhas
+http://vipeiptv.com:25461/movie/taylor/taylor/964617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajudantes do Papai Noel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lPl9jxnLyqSgxxvDUDCj601ex8.jpg" group-title="FILMES | INFANTIL",Ajudantes do Papai Noel
+http://vipeiptv.com:25461/movie/taylor/taylor/964618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos" tvg-logo="http://assistirpainel.ddns.net:8880/images/sAt2yb4dgrpkHjbB9dQaKD9Caor_small.jpg" group-title="FILMES | INFANTIL",Alvin e os Esquilos
+http://vipeiptv.com:25461/movie/taylor/taylor/964619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos 2" tvg-logo="http://assistirpainel.ddns.net:8880/images/1vfj6gsWDXYmIgjA9FphmvRKnJj_small.jpg" group-title="FILMES | INFANTIL",Alvin e os Esquilos 2
+http://vipeiptv.com:25461/movie/taylor/taylor/964620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos 3" tvg-logo="http://assistirpainel.ddns.net:8880/images/31IPWvH2l4ycyK8EsMOmmwiJC7n_small.jpg" group-title="FILMES | INFANTIL",Alvin e os Esquilos 3
+http://vipeiptv.com:25461/movie/taylor/taylor/964621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarelo e o Novo Preto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQN3wqHwvYoYIDFkKQ4QcuNQxoq.jpg" group-title="FILMES | INFANTIL",Amarelo e o Novo Preto
+http://vipeiptv.com:25461/movie/taylor/taylor/964622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix e o Segredo da Pocao Magica" tvg-logo="http://listaccess.me:8880/images/wqUMNRqi9OL89ZUhiu1oQ9l7dP5dQTox.jpg" group-title="FILMES | INFANTIL",Asterix e o Segredo da Pocao Magica
+http://vipeiptv.com:25461/movie/taylor/taylor/964623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Sapatilhas Magicas" tvg-logo="http://listaccess.me:8880/images/1wBaiset3LLsbAarLlEkwlKyi5t_small.jpg" group-title="FILMES | INFANTIL",Barbie e as Sapatilhas Magicas
+http://vipeiptv.com:25461/movie/taylor/taylor/964624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e as Tres Mosqueteiras" tvg-logo="http://listaccess.me:8880/images/zR0ts7zL2P1kQIQXYlnS4KCqqmu_small.jpg" group-title="FILMES | INFANTIL",Barbie e as Tres Mosqueteiras
+http://vipeiptv.com:25461/movie/taylor/taylor/964625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e o Castelo de Diamante" tvg-logo="http://listaccess.me:8880/images/dvjFM3GgYm3gDZ6Ulw0JurDYs4r_small.jpg" group-title="FILMES | INFANTIL",Barbie e o Castelo de Diamante
+http://vipeiptv.com:25461/movie/taylor/taylor/964626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie e o Segredo das Fadas" tvg-logo="http://listaccess.me:8880/images/wn2aoYKOonwMNKkzfgO5y4ji8pB_small.jpg" group-title="FILMES | INFANTIL",Barbie e o Segredo das Fadas
+http://vipeiptv.com:25461/movie/taylor/taylor/964627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Em Vida De Sereia" tvg-logo="http://listaccess.me:8880/images/jtOlo3AaXVBnqfMeKGFrZUMPFui_small.jpg" group-title="FILMES | INFANTIL",Barbie Em Vida De Sereia
+http://vipeiptv.com:25461/movie/taylor/taylor/964628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie O Quebra Nozes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bntcGxJqJI6yNR2TqbcNWNIbBRh.jpg" group-title="FILMES | INFANTIL",Barbie O Quebra Nozes
+http://vipeiptv.com:25461/movie/taylor/taylor/964629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benji" tvg-logo="http://listaccess.me:8080/images/yvmhEcqzN2bUZvEmEIh9SjhTkr6_small.jpg" group-title="FILMES | INFANTIL",Benji
+http://vipeiptv.com:25461/movie/taylor/taylor/964630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Pai Big Filho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3NYvraDC5yZrfUn9PvTE0TbRnm.jpg" group-title="FILMES | INFANTIL",Big Pai Big Filho
+http://vipeiptv.com:25461/movie/taylor/taylor/964631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e os Sete Anoes" tvg-logo="http://listaccess.me:8880/images/wbVGRBYPRRahIZNGXY9TfHDUSc2_small.jpg" group-title="FILMES | INFANTIL",Branca de Neve e os Sete Anoes
+http://vipeiptv.com:25461/movie/taylor/taylor/964632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cada Um na Sua Casa" tvg-logo="http://listaccess.me:8880/images/4UnME3icxSspwL0UoGZNSyyp7Xs_small.jpg" group-title="FILMES | INFANTIL",Cada Um na Sua Casa
+http://vipeiptv.com:25461/movie/taylor/taylor/964633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="FILMES | INFANTIL",Carros
+http://vipeiptv.com:25461/movie/taylor/taylor/964634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIKaabvE40T39nOIngcZPcPJeYe.jpg" group-title="FILMES | INFANTIL",Carros 2
+http://vipeiptv.com:25461/movie/taylor/taylor/964635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="FILMES | INFANTIL",Carros 3
+http://vipeiptv.com:25461/movie/taylor/taylor/964636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetives do Predio Azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ezEwZp2gUCfiT5STguLWNV4BYR.jpg" group-title="FILMES | INFANTIL",Detetives do Predio Azul
+http://vipeiptv.com:25461/movie/taylor/taylor/964637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="http://listaccess.me:8080/images/lRWyCw2ngz5yn49AYKxSoUDkK2z_small.jpg" group-title="FILMES | INFANTIL",Galinha Pintadinha
+http://vipeiptv.com:25461/movie/taylor/taylor/964638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 2" tvg-logo="http://listaccess.me:8080/images/u80NHFRBUOUXvgs3pHqAfzIdPdM_small.jpg" group-title="FILMES | INFANTIL",Galinha Pintadinha 2
+http://vipeiptv.com:25461/movie/taylor/taylor/964639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 3" tvg-logo="http://listaccess.me:8080/images/bdULXj5emkMZxVaAQD5zDdcIrQk_small.jpg" group-title="FILMES | INFANTIL",Galinha Pintadinha 3
+http://vipeiptv.com:25461/movie/taylor/taylor/964640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 4" tvg-logo="http://listaccess.me:8080/images/u9RYnZ6FKXZG0l8vONXWmBMXIyc_small.jpg" group-title="FILMES | INFANTIL",Galinha Pintadinha 4
+http://vipeiptv.com:25461/movie/taylor/taylor/964641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Feet O Pinguim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg" group-title="FILMES | INFANTIL",Happy Feet O Pinguim
+http://vipeiptv.com:25461/movie/taylor/taylor/964642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Feet O Pinguim 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXahNaLTC6tczdo6UHEOkx8ZsLY.jpg" group-title="FILMES | INFANTIL",Happy Feet O Pinguim 2
+http://vipeiptv.com:25461/movie/taylor/taylor/964643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lilo e Stitch 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcn7a7ENxi5TBTlka4wYLzmKQIp.jpg" group-title="FILMES | INFANTIL",Lilo e Stitch 2
+http://vipeiptv.com:25461/movie/taylor/taylor/964644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso O Filme" tvg-logo="http://listaccess.me:8880/images/cwkaJ6RoF4vpz1tUS3NuRDIsq9E_small.jpg" group-title="FILMES | INFANTIL",Masha e o Urso O Filme
+http://vipeiptv.com:25461/movie/taylor/taylor/964645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo o Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2cuLztJOBLRZss4qks0o6BivQl.jpg" group-title="FILMES | INFANTIL",Meu Amigo o Dragão
+http://vipeiptv.com:25461/movie/taylor/taylor/964646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito" tvg-logo="http://listaccess.me:8080/images/4zHJhBSY4kNZXfhTlmy2TzXD51M_small.jpg" group-title="FILMES | INFANTIL",Meu Malvado Favorito
+http://vipeiptv.com:25461/movie/taylor/taylor/964647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 2" tvg-logo="http://listaccess.me:8080/images/kQrYyZQHkwkUg2KlUDyvymj9FAp_small.jpg" group-title="FILMES | INFANTIL",Meu Malvado Favorito 2
+http://vipeiptv.com:25461/movie/taylor/taylor/964648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 3" tvg-logo="http://listaccess.me:8080/images/6t3YWl7hrr88lCEFlGVqW5yV99R_small.jpg" group-title="FILMES | INFANTIL",Meu Malvado Favorito 3
+http://vipeiptv.com:25461/movie/taylor/taylor/964649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3NANzgl2OcYwBuJ2kUozLHzL3m.jpg" group-title="FILMES | INFANTIL",O Menino e o Mundo
+http://vipeiptv.com:25461/movie/taylor/taylor/964650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco: A Lenda do Santuário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozSUEsKgMNOdL4em13Xd7uKf9TW.jpg" group-title="FILMES | INFANTIL",Os Cavaleiros do Zodíaco: A Lenda do Santuário
+http://vipeiptv.com:25461/movie/taylor/taylor/964651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pato Pato Ganso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96NP9cZh43GJYSmr4E3lqpQoSrB.jpg" group-title="FILMES | INFANTIL",Pato Pato Ganso
+http://vipeiptv.com:25461/movie/taylor/taylor/964652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau: O Filme" tvg-logo="http://listaccess.me:8080/images/vFGUsJTa8z0OfDTbjdyppAireeB_small.jpg" group-title="FILMES | INFANTIL",Pica-Pau: O Filme
+http://vipeiptv.com:25461/movie/taylor/taylor/964653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robôs (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPHd0Th1a0wmYMBZIjxNNLpGEhC.jpg" group-title="FILMES | INFANTIL",Robôs (2005)
+http://vipeiptv.com:25461/movie/taylor/taylor/964654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="o Carneiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nR8PTEV8MNLW14vM4Hg1e3OMeEa.jpg" group-title="FILMES | INFANTIL",o Carneiro
+http://vipeiptv.com:25461/movie/taylor/taylor/964655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie: A História de uma Abelha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg" group-title="FILMES | INFANTIL",Bee Movie: A História de uma Abelha
+http://vipeiptv.com:25461/movie/taylor/taylor/964656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa Monstro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xupl38cCwm8BnQvCkec9znMPSEG.jpg" group-title="FILMES | INFANTIL",A Casa Monstro
+http://vipeiptv.com:25461/movie/taylor/taylor/964657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ap19fJ8WqdjXSpkreUawPGB0ezN.jpg" group-title="FILMES | INFANTIL",Cinderela (1950)
+http://vipeiptv.com:25461/movie/taylor/taylor/964658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k69nGBs0nw1L3ZnAibCl9u5eNvo.jpg" group-title="FILMES | INFANTIL",A Bela e a Fera (1991)
+http://vipeiptv.com:25461/movie/taylor/taylor/964659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tá Dando Onda 2 (2017)" tvg-logo="http://assistirpainel.ddns.net:8880/images/ecfc5777b169b3662ca8f1b6d12b5770.jpg" group-title="FILMES | INFANTIL",Tá Dando Onda 2 (2017)
+http://vipeiptv.com:25461/movie/taylor/taylor/964660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tá Dando Onda 1 (2007)" tvg-logo="http://assistirpainel.ddns.net:8880/images/8d9150690304cb7ef2e28064a1d31fa3.jpg" group-title="FILMES | INFANTIL",Tá Dando Onda 1 (2007)
+http://vipeiptv.com:25461/movie/taylor/taylor/964661.mp4
